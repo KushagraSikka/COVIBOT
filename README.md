@@ -5,8 +5,19 @@ A chatbot that provides information and latest tweet regarding the user demand b
 Software Requirement
 
 >nltk
+
+
+
 >scikit-learn
+
+
+
 >tensorflow
+
+
 >flask
+
+
 >tornado.escape
+
 >link: https://chat235.herokuapp.com
