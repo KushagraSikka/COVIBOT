@@ -1,16 +1,9 @@
-# coronabot-chatterbot
-CoronaBot is a chat bot for answering question regarding Coronavirus
-
-Tutorial - https://studygyaan.com/uncategorised/create-web-based-chatbot-in-python-django-flask
-
-`pip install Flask`
-
-`pip install chatterbot`
-
-`pip install chatterbot-corpus`
-
-or 
-
-`pip install -r requirements.txt`
-
-![Chatbot](https://studygyaan.com/wp-content/uploads/2020/03/Chatbot-in-Python.png?style=centerme)
+# CHATBOT
+A chatbot that provides information and latest tweet regarding the user demand by segmenting the user text into demand and supply and then further into utilities like oxygen, beds, plasma, medicine, ambulance etc through natural language processing. It further provides information on covid 19 with health and fitness, plasma facts and donation procedure and vaccination
+## Software Requirement
+* nltk
+* scikit-learn 
+* tensorflow
+* flask 
+* tornado.escape
+#### link: https://chat235.herokuapp.com
