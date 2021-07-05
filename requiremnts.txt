@@ -2,4 +2,4 @@ this is the new requrements page
 this is tbvh just a test page so that i could test my terminal to commmit changes to the vi editor im learning to use this
 for quite a while took me like couple minutes to figure out the functioality of this 
 like its pretty easy to use only if you know how to use git properly 
-this is easy way of making commits ZZZZZ
+this is easy way of making commits ZZZZ kushagra is a guy and he loves to make a fool out of vidhi 
