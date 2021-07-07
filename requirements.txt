@@ -1,4 +1,4 @@
-bsl-py==0.12.0
+sl-py==0.12.0
 ppdirs==1.4.4
 ertifi==2020.12.5
 chardet==4.0.0
@@ -24,7 +24,10 @@ nltk
 oauthlib==3.1.0
 opt-einsum==3.3.0
 pandas==1.2.5
-matplot==1.3.1
+
+
+
+
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 requests==2.25.1
