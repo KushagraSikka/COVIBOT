@@ -1,4 +1,4 @@
-sl-py==0.12.0
+l-py==0.12.0
 ppdirs==1.4.4
 ertifi==2020.12.5
 chardet==4.0.0
@@ -25,7 +25,7 @@ oauthlib==3.1.0
 opt-einsum==3.3.0
 pandas==1.2.5
 
-
+abc
 
 
 pyasn1==0.4.8
