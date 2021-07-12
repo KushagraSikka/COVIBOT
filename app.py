@@ -13,7 +13,8 @@ def get_bot_response():
     UserTxt=request.args.get('msg')
     resp=chatbot_response(UserTxt)
     return str(resp)
-   
+
+
 
 if __name__ == "__main__":
     app.run()
