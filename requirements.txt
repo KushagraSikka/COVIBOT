@@ -1,4 +1,4 @@
-py==0.12.0
+y==0.12.0
 ppdirs==1.4.4
 ertifi==2020.12.5
 chardet==4.0.0
@@ -8,6 +8,9 @@ filelock==3.0.12
 flatbuffers==1.12
 Flask
 nltk
+Flask
+
+
 gast==0.4.0
 google-auth==1.30.0
 google-auth-oauthlib==0.4.4
