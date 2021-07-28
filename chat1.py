@@ -34,6 +34,7 @@ max_len=20
 #    for city in cities:
 #        if city in sentence:
 #            return city
+#  dont return city
 #def tagg(tag,text):
 #    beds=['icu bed','oxygen bed','bed with oxygen','hospital bed','bed with icu ']
 #    oxi=['oxygen cylinders', 'oxygen concentrators','oxygen cylinder','oxygen refill','oxygen concentrator','oxygen refills','oxygen cans','oxyegn can']
