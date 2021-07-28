@@ -1,4 +1,4 @@
-from chat1 import chatbot_response
+from chat1 import chatbot_respons
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
@@ -17,3 +17,4 @@ def get_bot_response():
 
 if __name__ == "__main__":
     app.run()
+
